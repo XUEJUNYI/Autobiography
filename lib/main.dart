@@ -135,17 +135,17 @@ class screen2 extends StatelessWidget {
         LearningHistoryItem(
           icon: Icons.school,
           title: '學位取得',
-          description: '在XYZ大學取得計算機科學學士學位。',
+          description: '畢業於中正高工資工系，因對資訊感興趣國中畢業決定進入高職就讀。',
         ),
         LearningHistoryItem(
           icon: Icons.code,
           title: '程式設計課程',
-          description: '參與了Google Flutter的程式設計課程，學習了Flutter框架。',
+          description: '參與了於高中校內各項研習，初步學習各項程式能力基礎。',
         ),
         LearningHistoryItem(
           icon: Icons.language,
           title: '外語學習',
-          description: '學習了新的語言，提升了溝通和國際合作的能力。',
+          description: '積極學習英文，為學習程式語言與大世界做準備，參加國內多益考試取得400分期望未來能增加。',
         ),
         // 可以根據需要添加更多的學習歷程項目
       ],
